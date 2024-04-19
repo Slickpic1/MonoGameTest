@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Audio/Music/mainMenuMusic.mp3</SourceFile>
+  <SourceTime>2024-04-16T20:06:11.8303389-06:00</SourceTime>
+  <DestFile>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Audio/Music/mainMenuMusic.xnb</DestFile>
+  <DestTime>2024-04-16T20:11:28.3426434-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Audio/Music/mainMenuMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

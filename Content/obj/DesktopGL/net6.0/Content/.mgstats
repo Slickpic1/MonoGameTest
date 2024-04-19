@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Audio/Music/mainMenuMusic.mp3","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Audio/Music/mainMenuMusic.xnb","SongProcessor","SongContent",2026133,131,1.181215
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Audio/SFX/blipSelect.wav","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Audio/SFX/blipSelect.xnb","SoundEffectProcessor","SoundEffectContent",2034,2095,0.1176899
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/ancientModern.spritefont","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Fonts/ancientModern.xnb","FontDescriptionProcessor","SpriteFontContent",2083,267295,0.4455567
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/goblinAppears.spritefont","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Fonts/goblinAppears.xnb","FontDescriptionProcessor","SpriteFontContent",2080,37919,0.4348528
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Menus/MainMenuBackground.png","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Menus/MainMenuBackground.xnb","TextureProcessor","Texture2DContent",7972,230485,0.246326
+"c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Menus/selectorSword.png","c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Menus/selectorSword.xnb","TextureProcessor","Texture2DContent",269,4181,0.0053898

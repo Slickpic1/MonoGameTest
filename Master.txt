@@ -1,0 +1,7 @@
+////////////////////////////////////////////////////////////////////
+// To Do:
+////////////////////////////////////////////////////////////////////
+  1. See if we can't scale our sprites better                    [ ]
+  2. See if we cant make our main menu txt positioning better    [ ]
+  3. Cleanup Main Menu code                                      [ ]
+  4. See if we can speed up the "blip" sound in the menu         [ ]
