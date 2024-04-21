@@ -25,19 +25,19 @@
 /processorParam:Quality=Best
 /build:Audio/SFX/blipSelect.wav
 
-#begin Fonts/ancientModern.spritefont
+#begin Fonts/ancientModern64.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
-/build:Fonts/ancientModern.spritefont
+/build:Fonts/ancientModern64.spritefont
 
-#begin Fonts/goblinAppears.spritefont
+#begin Fonts/goblinAppears12.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
-/build:Fonts/goblinAppears.spritefont
+/build:Fonts/goblinAppears12.spritefont
 
 #begin Menus/MainMenuBackground.png
 /importer:TextureImporter
@@ -62,4 +62,16 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Menus/selectorSword.png
+
+#begin Menus/subMainMenu.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Menus/subMainMenu.png
 

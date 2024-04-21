@@ -31,3 +31,6 @@ c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Fonts\goblin
 c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Audio\Music\mainMenuMusic.ogg
 c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Audio\Music\mainMenuMusic.xnb
 c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Audio\SFX\blipSelect.xnb
+c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Menus\subMainMenu.xnb
+c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Fonts\ancientModern64.xnb
+c:\Users\slick\GameStuff\Projects\Sandbox1\bin\Debug\net6.0\Content\Fonts\goblinAppears12.xnb

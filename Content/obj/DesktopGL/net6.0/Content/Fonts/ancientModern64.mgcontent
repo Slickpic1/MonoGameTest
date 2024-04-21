@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/goblinAppears.spritefont</SourceFile>
-  <SourceTime>2024-04-15T20:41:37.050239-06:00</SourceTime>
-  <DestFile>C:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Fonts/goblinAppears.xnb</DestFile>
-  <DestTime>2024-04-16T20:08:41.5506703-06:00</DestTime>
+  <SourceFile>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/ancientModern64.spritefont</SourceFile>
+  <SourceTime>2024-04-15T21:00:06.8657684-06:00</SourceTime>
+  <DestFile>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/bin/DesktopGL/Content/Fonts/ancientModern64.xnb</DestFile>
+  <DestTime>2024-04-20T22:28:23.9218744-06:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

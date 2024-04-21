@@ -4,18 +4,18 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Sandbox1;
 
-public class FontSprite
+public class SpriteString
 {
     private SpriteFont font;
     public Vector2 position;
     private string drawString;
     private Color color;
-    public FontSprite(SpriteFont font, string drawString, Color color)
+    public SpriteString(SpriteFont font, string drawString, Color color)
     {
         this.font = font;
         this.drawString = drawString;
     }
-    public FontSprite(SpriteFont font, string drawString, Vector2 position, Color color)
+    public SpriteString(SpriteFont font, string drawString, Vector2 position, Color color)
     {
         this.font = font;
         this.position = position;

@@ -6,12 +6,14 @@
   <SourceFiles>
     <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Audio/Music/mainMenuMusic.mp3</File>
     <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Audio/SFX/blipSelect.wav</File>
-    <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/ancientModern.spritefont</File>
-    <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/goblinAppears.spritefont</File>
+    <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/ancientModern64.spritefont</File>
+    <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Fonts/goblinAppears12.spritefont</File>
     <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Menus/MainMenuBackground.png</File>
     <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Menus/selectorSword.png</File>
+    <File>c:/Users/slick/GameStuff/Projects/Sandbox1/Content/Menus/subMainMenu.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
